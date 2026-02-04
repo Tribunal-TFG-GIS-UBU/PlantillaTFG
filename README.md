@@ -24,9 +24,6 @@ Otra opción es editar los ficheros en la nube usando: https://es.overleaf.com/
 
 Se ruega a los alumnos y tutores que detecten fallos o que quieran proponer una sugerencia, que lo notifiquen mediante la creación de una issue https://IngenieriaSaludBurgos/PlantillaTFG/issues
 
-# Gracias a los contribuidores
-
-Esta plantilla está basada en la creada para el grado de Informática https://github.com/ubutfgm/plantillaLatex
-
-Gracias entre otros a César Ignacio García Osorio, Álvar Arnaiz Gonzalez, José Francisco Díez Pastor, Carlos Lopez Nozal.
-Álvaro López Cantero, Roberto Izquierdo Amo, David Miguel Lozano, Daniel Puente Ramírez. Samuel Lozano Juárez
+# Gracias a los colaboradores:
+Entre otros a: 
+César Ignacio García Osorio, Álvar Arnaiz Gonzalez, José Francisco Díez Pastor, Carlos Lopez Nozal, Álvaro López Cantero, Roberto Izquierdo Amo, David Miguel Lozano, Daniel Puente Ramírez, Samuel Lozano Juárez, Antonio Jesús Canepa Oneto y David García-García.
