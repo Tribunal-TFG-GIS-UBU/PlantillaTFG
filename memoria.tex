@@ -101,13 +101,13 @@
   \thispagestyle{empty}
   % Cabecera ----------------
 \begin{center}
-  \noindent\includegraphics[width=\textwidth]{cabeceraSalud}\vspace{1.5cm}%
+  \noindent\includegraphics[width=\textwidth]{CabeceraEPS.png}\vspace{1.5cm}%
 \end{center}
   
   % Título proyecto y escudo salud ----------------
   \begin{center}
     \begin{minipage}[c][1.5cm][c]{.20\textwidth}
-        \includegraphics[width=\textwidth]{escudoSalud.pdf}
+        \includegraphics[width=\textwidth]{logo_GIS.png}
     \end{minipage}
   \end{center}
   
@@ -143,9 +143,9 @@
   }
 \makeatother
 
-\newcommand{\nombre}{Pepe Pérez}
-\newcommand{\nombreTutor}{Tutor 1} 
-\newcommand{\nombreTutorb}{Tutor 2} 
+\newcommand{\nombre}{Nombre Alumno/a}
+\newcommand{\nombreTutor}{Nombre Tutor/a 1} 
+\newcommand{\nombreTutorb}{Nombre Tutor/a 2} 
 \newcommand{\dni}{123456A} 
 
 % Datos de portada
@@ -166,19 +166,19 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \thispagestyle{empty}
 
+\noindent\includegraphics[width=\textwidth]{CabeceraEPS.png}\vspace{1cm}
 
-\noindent\includegraphics[width=\textwidth]{cabeceraSalud}\vspace{1cm}
+\noindent D. \nombreTutor, profesor/a del departamento de departamento, área de área.
+\noindent D. \nombreTutorb, profesor/a del departamento de departamento, área de área.
 
-\noindent D. \nombreTutor, profesor del departamento de departamento, área de área.
+\noindent Expone/n:
 
-\noindent Expone:
+\noindent Que el/la alumno/a D. \nombre, con DNI \dni, ha realizado el Trabajo final de Grado en Ingeniería de la Salud titulado título del trabajo. 
 
-\noindent Que el alumno D. \nombre, con DNI \dni, ha realizado el Trabajo final de Grado en Ingeniería de la Salud titulado título del trabajo. 
-
-\noindent Y que dicho trabajo ha sido realizado por el alumno bajo la dirección del que suscribe, en virtud de lo cual se autoriza su presentación y defensa.
+\noindent Y que dicho trabajo ha sido realizado por el/la alumno/a bajo la dirección del/los que suscribe/n.
 
 \begin{center} %\large
-En Burgos, {\large \today}
+En Burgos, a {\large \today}
 \end{center}
 
 \vfill\vfill\vfill
@@ -259,8 +259,9 @@ keywords separated by commas.
 \include{./tex/3_teoricos}
 \include{./tex/4_metodologia}
 \include{./tex/5_resultados}
-\include{./tex/6_conclusiones}
-\include{./tex/7_lineas_futuras}
+\include{./tex/6_discusion}
+\include{./tex/7_conclusiones}
+\include{./tex/8_lineas_futuras}
 
 
 \bibliographystyle{apalike}
