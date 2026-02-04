@@ -22,7 +22,7 @@ Otra opción es editar los ficheros en la nube usando: https://es.overleaf.com/
 
 # Petición de cambios y sugerencias
 
-Se ruega a los alumnos y tutores que detecten fallos o que quieran proponer una sugerencia, que lo notifiquen mediante la creación de una issue https://IngenieriaSaludBurgos/PlantillaTFG/issues
+Se ruega a los alumnos y tutores que detecten fallos o que quieran proponer una sugerencia, que lo notifiquen mediante la creación de una issue https://github.com/Tribunal-TFG-GIS-UBU/PlantillaTFG/issues
 
 # Gracias a los colaboradores:
 Entre otros a: 
