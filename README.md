@@ -51,7 +51,7 @@ tfg_ubu_quarto/
 ├── img/
 │   ├── CabeceraEPS.png      ← Cabecera UBU-EPS (no tocar)
 │   └── Logo_GIS.png         ← Logo Ingeniería de la Salud (no tocar)
-└── README_QUARTO.md         ← Este archivo
+└── README_QUARTO.md         ← Instrucciones para usar la plantilla Quarto
 ```
 
 **Lee cuidadosamente el archivo `README_QUARTO.md`**, ahí está todo explicado.
