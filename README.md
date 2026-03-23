@@ -32,7 +32,7 @@ César Ignacio García Osorio, Álvar Arnaiz Gonzalez, José Francisco Díez Pas
 
 # Nueva Plantilla Quarto.
 
-Se pone a disposición del estudiantado una plantilla en Quarto [https://quarto.org/](https://quarto.org/). Esta plantilla ha sido creada por el profesor [Dr. Antonio Canepa-Oneto][https://github.com/ajcanepa/PlantillaTFG_GIS/tree/main/plantilla_TFG_GIS_UBU_Quarto/tfg_ubu_quarto](https://github.com/Tribunal-TFG-GIS-UBU/PlantillaTFG_Quarto).
+Se pone a disposición del estudiantado una plantilla en Quarto [https://quarto.org/](https://quarto.org/). Esta plantilla ha sido creada por el profesor [Dr. Antonio Canepa-Oneto]: (https://github.com/Tribunal-TFG-GIS-UBU/PlantillaTFG_Quarto).
 
 Esta plantilla sigue el formato de la plantilla en latex pero permite incorporar cajas de código a la par que texto, de esta manera no tendrás que "guardar/importar" las imágenes o tablas que tu código genera, **simplemente mezclas texto con código** (*i.e.* usas la misma idea detrás de un cuaderno de Jupyter o un cuaderno de RMarkdown).
 
