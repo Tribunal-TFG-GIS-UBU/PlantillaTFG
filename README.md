@@ -32,28 +32,8 @@ César Ignacio García Osorio, Álvar Arnaiz Gonzalez, José Francisco Díez Pas
 
 # Nueva Plantilla Quarto.
 
-Se pone a disposición del estudiantado una plantilla en Quarto [https://quarto.org/](https://quarto.org/). Esta plantilla ha sido creada por el profesor [Dr. Antonio Canepa-Oneto](https://github.com/ajcanepa/PlantillaTFG_GIS/tree/main/plantilla_TFG_GIS_UBU_Quarto/tfg_ubu_quarto).
+Se pone a disposición del estudiantado una plantilla en Quarto [https://quarto.org/](https://quarto.org/). Esta plantilla ha sido creada por el profesor [Dr. Antonio Canepa-Oneto]([https://github.com/ajcanepa/PlantillaTFG_GIS/tree/main/plantilla_TFG_GIS_UBU_Quarto/tfg_ubu_quarto](https://github.com/Tribunal-TFG-GIS-UBU/PlantillaTFG_Quarto)).
 
 Esta plantilla sigue el formato de la plantilla en latex pero permite incorporar cajas de código a la par que texto, de esta manera no tendrás que "guardar/importar" las imágenes o tablas que tu código genera, **simplemente mezclas texto con código** (*i.e.* usas la misma idea detrás de un cuaderno de Jupyter o un cuaderno de RMarkdown).
-
-## Estructura de archivos.
-
-Cuando te descargues el archivo .zip obtendrás lo siguiente:
-
-```
-tfg_ubu_quarto/
-├── memoria.qmd              ← Escribe aquí el contenido de tu memoria
-├── anexos.qmd               ← Escribe aquí el contenido de tus anexos
-├── preambulo_memoria.tex    ← PON AQUÍ TU NOMBRE, TUTORES Y TÍTULO (memoria)
-├── preambulo_anexos.tex     ← PON AQUÍ TU NOMBRE, TUTORES Y TÍTULO (anexos)
-├── bibliografia.bib         ← Tus referencias bibliográficas (memoria)
-├── bibliografiaAnexos.bib   ← Tus referencias bibliográficas (anexos)
-├── img/
-│   ├── CabeceraEPS.png      ← Cabecera UBU-EPS (no tocar)
-│   └── Logo_GIS.png         ← Logo Ingeniería de la Salud (no tocar)
-└── README_QUARTO.md         ← Instrucciones para usar la plantilla Quarto
-```
-
-**Lee cuidadosamente el archivo `README_QUARTO.md`**, ahí está todo explicado.
 
 ***
